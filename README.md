@@ -14,13 +14,13 @@ cd Personalised-Netflix-Recommendation
 
 ---
 
-## **Dataset**
+## Dataset
 
 Dataset: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows) by **Shivam Bansal** on Kaggle.  
 Please review the dataset license before sharing.
 
 ---
-## **Features**
+## Features
 
 - **Basic EDA**: Summary statistics and simple visualisations.  
 - **Multivariate Analysis**: Relationships between multiple dataset features.  
@@ -28,7 +28,7 @@ Please review the dataset license before sharing.
 - **Content-Based Recommendations** *(from original author)*.
 ---
 
-## **Attribution & Licensing**
+## Attribution & Licensing
 
 Adapted from "Netflix Movies and TV Shows: Clustering" by bansodesandeep  
 (https://www.kaggle.com/code/bansodesandeep/netflix-movies-and-tv-shows-clustering)  
