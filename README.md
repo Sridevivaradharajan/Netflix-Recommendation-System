@@ -2,13 +2,14 @@
 This project explores the Netflix Movies and TV Shows dataset, focusing on data analysis, clustering, and developing a content-based recommendation system.
 
 ## Features 
-Exploratory Data Analysis (EDA): Comprehensive summary statistics and visualizations to understand the dataset's characteristics.
+Exploratory Data Analysis (EDA): A comprehensive EDA is performed using univariate, bivariate, and multivariate analysis (UBM) to understand data distribution, relationships between features, and to inform the modeling approach.
 
-Multivariate Analysis: In-depth analysis of the relationships between multiple features in the dataset.
+Natural Language Processing (NLP): Textual data from show descriptions and other features are processed to create meaningful representations for the recommendation system.
 
-DBSCAN Clustering: A density-based clustering approach to group similar movies and TV shows.
+Clustering: This project applies multiple clustering algorithms K-Means, Hierarchical, and DBSCAN to group similar movies and TV shows, allowing for a comparison of different clustering methods.
 
-Content-Based Recommendation System: An adapted system from the original work that provides personalized recommendations based on show content.
+Content-Based Recommendations: An adapted recommendation engine suggests new titles to users based on the content of shows they have previously enjoyed.
+
 ---
 
 ## Installation & Usage 
@@ -17,6 +18,7 @@ Content-Based Recommendation System: An adapted system from the original work th
    git clone https://github.com/Sridevivaradharajan/Autism-detection.git
    cd Autism-detection
 2. Install Required Libraries
+
 ---
 
 ## Dataset & Attribution 
