@@ -15,8 +15,8 @@ Content-Based Recommendations: An adapted recommendation engine suggests new tit
 ## Installation & Usage 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sridevivaradharajan/Autism-detection.git
-   cd Autism-detection
+   git clone https://github.com/Sridevivaradharajan/Netflix-Recommendation-System.git
+   cd Netflix-Recommendation-System
 2. Install Required Libraries
 
 ---
@@ -24,7 +24,7 @@ Content-Based Recommendations: An adapted recommendation engine suggests new tit
 ## Dataset & Attribution 
 This project uses the Netflix Movies and TV Shows dataset from Kaggle, originally provided by Shivam Bansal.
 
-Original Work: This project is adapted from the Kaggle notebook "Netflix Movies and TV Shows: Clustering" by bansodesandeep.
+Original Work: Adapted from the Kaggle notebook "Netflix Movies and TV Shows: Clustering" by bansodesandeep.
 
 License: The original work and this adaptation are licensed under the Apache License 2.0.
 
