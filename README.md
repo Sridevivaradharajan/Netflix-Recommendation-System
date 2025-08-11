@@ -1,4 +1,4 @@
-# Personalized Netflix Recommendations via Content-Based Filtering
+# Personalized Netflix Recommendations using Content-Based Filtering
 This project explores the Netflix Movies and TV Shows dataset, focusing on data analysis, clustering, and developing a content-based recommendation system.
 
 ## Features 
